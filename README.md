@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3, Threejs**
 
-- 👨‍💻 All of my projects are available at [www.github.com/jenperez613](www.github.com/jenperez613)
+- 👩‍💻 All of my projects are available at [www.github.com/jenperez613](www.github.com/jenperez613)
 
 - 💬 Ask me about **react, nextjs, vite**
 
