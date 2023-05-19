@@ -1,7 +1,7 @@
 [![MasterHead](https://www.dropbox.com/s/ki0lfscla63b61d/Jen%20Perez.png?raw=1)](https://jenperez.dev)
 <h1 align="center">Hi 👋, I'm Jen!</h1>
 <h3 align="center">Full-stack developer, but front-end is BAE.</h3>
-<img align="right" alt="Coding" width="400" src="https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700">
+<img align="right" alt="Coding" width="400" src="https://www.dropbox.com/s/eutznsn7v67qlj6/codelofi.gif?raw=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenperez613&label=Profile%20views&color=0e75b6&style=flat" alt="jenperez613" /> </p>
 
