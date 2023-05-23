@@ -11,6 +11,8 @@
 
 - 👩‍💻 All of my projects are available at [www.github.com/jenperez613](www.github.com/jenperez613)
 
+- 💾 My resume is available [here](https://docs.google.com/document/d/1vI52YB3FM0ufVd9BaRBh9spCSPoyghQtd7rcLZbX4EI/edit?usp=sharing)
+
 - 💬 Ask me about **react, nextjs, vite**
 
 - 📫 How to reach me **jen@jenperez.dev**
